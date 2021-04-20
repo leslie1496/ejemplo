@@ -1,0 +1,2 @@
+1. Entrar a clase de devops con pase de lista
+2. Crear un nuevo Repositorio
